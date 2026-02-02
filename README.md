@@ -2,7 +2,8 @@
 
 A fast, clean 3d model viewing application built with **python**, **pyqt6**, and **vtk**.
 
-it supports common polygon formats (obj/stl/gltf/glb/dae/fbx) and cad step files (stp/step) via a robust fallback pipeline, with a directory tree sidebar, object selection, hide/reveal, and live material editing.
+I have a ton of models in my Blender asset directory and needed a tool to quicly preview the models instead of loading them in Blender each time or using the asset library. So I ended up creating Vertexa, a kinda
+asset library browser from disk. It supports common polygon formats (obj/stl/gltf/glb/dae/fbx) and cad step files (stp/step) via a robust fallback pipeline, with a directory tree sidebar, object selection, hide/reveal, and live material editing.
 
 ---
 
