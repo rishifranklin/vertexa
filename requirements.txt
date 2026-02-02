@@ -1,0 +1,12 @@
+# core ui + rendering
+pyqt6>=6.5
+vtk>=9.2
+numpy>=1.23
+
+# file format support
+assimp-py>=1.1.0
+pycollada>=0.9.3
+cadquery-ocp>=7.7
+
+# optional: generic assimp fallback
+# pyassimp
