@@ -56,7 +56,7 @@ asset library browser from disk. It supports common polygon formats (obj/stl/glt
 
 ### reliability
 - graceful error handling with message dialogs
-- crash logs are written to a file (see `crash_logs/`)
+- crash logs are written to a file.
 
 
 ---
