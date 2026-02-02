@@ -57,15 +57,6 @@ it supports common polygon formats (obj/stl/gltf/glb/dae/fbx) and cad step files
 - graceful error handling with message dialogs
 - crash logs are written to a file (see `crash_logs/`)
 
----
-
-## screenshots
-
-add screenshots/gifs here.
-
-- `docs/screenshots/main.png`
-- `docs/screenshots/texture_editor.png`
-- `docs/screenshots/context_menu.png`
 
 ---
 
