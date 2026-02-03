@@ -58,6 +58,7 @@ asset library browser from disk. It supports common polygon formats (obj/stl/glt
 - graceful error handling with message dialogs
 - crash logs are written to a file.
 
+<img width="1531" height="1112" alt="image" src="https://github.com/user-attachments/assets/2e98e925-333a-4e5d-aacd-8eb574ddb272" />
 
 ---
 
