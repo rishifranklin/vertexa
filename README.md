@@ -60,6 +60,10 @@ asset library browser from disk. It supports common polygon formats (obj/stl/glt
 
 <img width="1531" height="1112" alt="image" src="https://github.com/user-attachments/assets/2e98e925-333a-4e5d-aacd-8eb574ddb272" />
 
+Mesh Selection and Texturing
+
+<img width="2434" height="1111" alt="image" src="https://github.com/user-attachments/assets/350383f7-a759-4d24-b7bc-15d6a6352167" />
+
 ---
 
 ## requirements
